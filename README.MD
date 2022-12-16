@@ -6,7 +6,7 @@
 This application uses [pytube](https://github.com/pytube/pytube) to do it.
 
 ## Install
-***
+
 You have to install [python3](https://www.python.org/) on your device. You can install python through terminal (Mac on [Homebrew](https://brew.sh/)):
 
 ```
@@ -18,7 +18,7 @@ You should also install [pytube](https://github.com/pytube/pytube) using pip ins
 $ pip install pytube
 ```
 ## How to use?
-***
+
 Try it on your terminal
 ```
 $ python3 ytdownloader.py [urls...]
